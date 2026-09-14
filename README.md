@@ -11,14 +11,10 @@
    - Top performing Brands
    - Top selling Products
    - Best Performing Categories
-   - Coupon Performance
-   - Customer Tier Analysis
-   - Customer Lifetime Value
-   - Customer Purchasing Patterns
    - Areas of potential business improvement
 
 ## 📊 Dataset
-  The project uses multiple datasets containing sales, products, customer information.
+  The project uses multiple datasets containing sales, products and customer information.
 ### Dataset Files
   | File | Description |
   |---|---|
@@ -36,11 +32,6 @@
   - Slicers
   - Data Analysis
 
-### Excel Techniques
-  -
-  -
-  -
-
 ## 🧹 Data Cleaning
   The data preparation was performed using Power Query. The cleaning process included:
     - Correcting data types
@@ -52,25 +43,28 @@
   The interactive dashboard provides an overview of:
    - Total Sales
    - Total Orders
+   - Total Products
+   - Total Customers
    - Revenue Trend
    - Top Performing Brands
    - Top Selling Products
    - Best Performing Categories
 Interactive slicers allow users to filter the dashboard by relevant dimensions such as year, city.
-<img width="1486" height="526" alt="image" src="https://github.com/user-attachments/assets/2f7a3fd6-b33c-4435-848b-79258ba55fc6" />
 
-![Excel-Sales-Analysis-Dashboard](https://github.com/manu0408/Excel-Sales-Analysis-Dashboard/blob/1378b2bf0f7cff955d9faacd8d5d66747a50ac71/Images/E%20commerce%20sales%20analytics.png)
-
-![Images](Images/E commerce sales analytics.png)
+![Excel-Sales-Analysis-Dashboard](https://github.com/manu0408/Excel-Sales-Analysis-Dashboard/blob/main/Images/E%20commerce%20sales%20analytics.png?raw=true)
 
 ## 🔍 Key Insights
-  -
-  -
-
+  - Sales showed an overall upward trend during 2024 & 2025 but declined after July 2026.
+  - Sales performance varied considerably across states.
+  - Electronics contributes approximately 72% of total sales indicating the business highly depends on electronics.
+  - Noise Watch V1 is the top selling product in most of the states followed by Samsung Mobile V4.
+  - HP, Noise, boAt, Samsung, Apple were the leading brands.
+  
 ## 💡 Business Recommendations
   Based on the analysis:
-  - 
-  -
+    - Diversify category strategy to reduce dependency on Electronics.
+    - Monitor monthly sales growth to identify early performance changes.
+    - Plan seasonal promotions around weaker months.
 
 ## 🚀 Skills Demonstrated
   - Data Cleaning & Transformation
