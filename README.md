@@ -7,15 +7,15 @@
 
 ## 🎯 Business Objective
   The objective of the project is the analyse E-Commerce sales and identify:
-    - Overall Sales Performance
-    - Top performing Brands
-    - Top selling Products
-    - Best Performing Categories
-    - Coupon Performance
-    - Customer Tier Analysis
-    - Customer Lifetime Value
-    - Customer Purchasing Patterns
-    - Areas of potential business improvement
+   - Overall Sales Performance
+   - Top performing Brands
+   - Top selling Products
+   - Best Performing Categories
+   - Coupon Performance
+   - Customer Tier Analysis
+   - Customer Lifetime Value
+   - Customer Purchasing Patterns
+   - Areas of potential business improvement
 
 ## 📊 Dataset
   The project uses multiple datasets containing sales, products, customer information.
@@ -50,12 +50,12 @@
 
 ## 📈 Dashboard
   The interactive dashboard provides an overview of:
-    - Total Sales
-    - Total Orders
-    - Revenue Trend
-    - Top Performing Brands
-    - Top Selling Products
-    - Best Performing Categories
+   - Total Sales
+   - Total Orders
+   - Revenue Trend
+   - Top Performing Brands
+   - Top Selling Products
+   - Best Performing Categories
 Interactive slicers allow users to filter the dashboard by relevant dimensions such as year, city.
 
 ![Excel-Sales-Analysis-Dashboard](images/E commerce sales analytics.png)
