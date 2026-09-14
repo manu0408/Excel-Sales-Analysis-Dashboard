@@ -57,8 +57,11 @@
    - Top Selling Products
    - Best Performing Categories
 Interactive slicers allow users to filter the dashboard by relevant dimensions such as year, city.
+<img width="1486" height="526" alt="image" src="https://github.com/user-attachments/assets/2f7a3fd6-b33c-4435-848b-79258ba55fc6" />
 
-![Excel-Sales-Analysis-Dashboard](images/E commerce sales analytics.png)
+![Excel-Sales-Analysis-Dashboard](https://github.com/manu0408/Excel-Sales-Analysis-Dashboard/blob/1378b2bf0f7cff955d9faacd8d5d66747a50ac71/Images/E%20commerce%20sales%20analytics.png)
+
+![Images](Images/E commerce sales analytics.png)
 
 ## 🔍 Key Insights
   -
