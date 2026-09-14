@@ -95,5 +95,10 @@ Excel-Sales-Analysis-Dashboard/
 │   └── E commerce sales analytics.png
 │
 └── README.md
+```
 
+## 🙏 Acknowledgements
+The dataset used in this project was sourced from Kaggle.
+Special thanks to the original dataset creator for making the dataset available for learning and analysis.
+🔗 **Dataset Source:** [Kaggle – Indian E-Commerce Sales Dataset](https://www.kaggle.com/datasets/jatinkhandelwal112/indian-e-commerce-sales-analytics-dataset)
 
