@@ -34,10 +34,10 @@
 
 ## 🧹 Data Cleaning
   The data preparation was performed using Power Query. The cleaning process included:
-    - Correcting data types
-    - Standardizing date formats
-    - Creating relationships between datasets
-    - Preparing the data for analysis
+  - Correcting data types
+  - Standardizing data formats
+  - Creating relationships between datasets
+  - Preparing the data for analysis
 
 ## 📈 Dashboard
   The interactive dashboard provides an overview of:
@@ -49,6 +49,7 @@
    - Top Performing Brands
    - Top Selling Products
    - Best Performing Categories
+
 Interactive slicers allow users to filter the dashboard by relevant dimensions such as year, city.
 
 ![Excel-Sales-Analysis-Dashboard](https://github.com/manu0408/Excel-Sales-Analysis-Dashboard/blob/main/Images/E%20commerce%20sales%20analytics.png?raw=true)
@@ -62,9 +63,9 @@ Interactive slicers allow users to filter the dashboard by relevant dimensions s
   
 ## 💡 Business Recommendations
   Based on the analysis:
-    - Diversify category strategy to reduce dependency on Electronics.
-    - Monitor monthly sales growth to identify early performance changes.
-    - Plan seasonal promotions around weaker months.
+   - Diversify category strategy to reduce dependency on Electronics.
+   - Monitor monthly sales growth to identify early performance changes.
+   - Plan seasonal promotions around weaker months.
 
 ## 🚀 Skills Demonstrated
   - Data Cleaning & Transformation
