@@ -14,7 +14,8 @@
    - Areas of potential business improvement
 
 ## 📊 Dataset
-  The project uses multiple datasets containing sales, products and customer information.
+  The project uses realistic multi-table e-commerce dataset containing 250000 sales records, 40000customer records and 2000 products records.
+  
 ### Dataset Files
   | File | Description |
   |---|---|
